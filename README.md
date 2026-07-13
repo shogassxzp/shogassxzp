@@ -1,16 +1,83 @@
-## Hi there 👋
+# Hi, I'm Ignat 👋
 
-<!--
-**shogassxzp/shogassxzp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Open to Work](https://img.shields.io/badge/Open_to_Work-Juniор_iOS_Developer-success?style=flat-square)
 
-Here are some ideas to get you started:
+Junior iOS Developer from Belarus 🇧🇾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building native iOS applications with **Swift**, **UIKit** and **SwiftUI**.
+Currently looking for my first **Junior iOS Developer** position.
+
+---
+
+## 🚧 Work in Progress
+
+### SwipeFlicks
+
+A movie recommendation app focused on quick swipe interactions.
+
+**Status:** 🟢 Active Development
+
+**Current goals**
+- 🎬 Discover new movies
+- ❤️ Favorites & Watchlist
+- 🚫 Hidden titles
+- ⚡ Fast swipe-based recommendations
+
+---
+
+## ⚡ Highlights
+
+- 📱 6 native iOS applications
+- 🏗 UIKit & SwiftUI
+- 🌐 REST API • OAuth • URLSession
+- 💾 CoreData • Keychain
+- 🧪 Unit & UI Testing
+- 🧩 MVP • MVVM • Dependency Injection
+
+---
+
+## 📱 Featured Projects
+
+### 📷 Unsplash Gallery
+
+Modern Unsplash client built as a technical assignment.
+
+**Stack:** UIKit • MVVM • Combine • DI • CoreData
+
+[🔗 View Repository](https://github.com/shogassxzp/Unsplash-Gallery)
+
+---
+
+### 🖼 ImageFeed
+
+Unsplash client with OAuth authorization, image feed and profile.
+
+**Stack:** UIKit • MVP • OAuth • URLSession • Kingfisher
+
+[🔗 View Repository](https://github.com/shogassxzp/ImageFeed)
+
+---
+
+### 📈 Tracker
+
+Habit tracker with statistics, categories and persistent storage.
+
+**Stack:** UIKit • CoreData • AppMetrica
+
+[🔗 View Repository](https://github.com/shogassxzp/tracker)
+
+---
+
+### ✈️ TravelPass
+
+Travel planning application powered by Yandex Travel API.
+
+**Stack:** SwiftUI • MVVM • Dependency Injection
+
+[🔗 View Repository](https://github.com/shogassxzp/travelPass)
+
+---
+
+## 📫 Contact
+
+📧 rssxzp@icloud.com
