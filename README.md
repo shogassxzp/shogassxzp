@@ -80,8 +80,6 @@ Travel planning application powered by Yandex Travel API.
 
 ## 📫 Contact
 
-## 📫 Contact
-
 [![Telegram](https://img.shields.io/badge/Telegram-@rssxzp-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/rssxzp)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ignat_Rogachevich-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shogassxzp)
