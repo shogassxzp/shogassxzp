@@ -1,12 +1,12 @@
 # Hi, I'm Ignat 👋
 
-![Open to Work](https://img.shields.io/badge/Open_to_Work-Juniор_iOS_Developer-success?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Open_to_Work-Junior_iOS_Developer-success?style=flat-square)
 
 Junior iOS Developer from Belarus 🇧🇾
 
-I enjoy building native iOS applications with **Swift**, **UIKit** and **SwiftUI**.
-Currently looking for my first **Junior iOS Developer** position.
+Building native iOS applications with Swift, UIKit and SwiftUI.
 
+Currently looking for my first iOS Developer position.
 ---
 
 ## 🚧 Work in Progress
@@ -27,7 +27,7 @@ A movie recommendation app focused on quick swipe interactions.
 
 ## ⚡ Highlights
 
-- 📱 6 native iOS applications
+- 📱 6 native iOS projects
 - 🏗 UIKit & SwiftUI
 - 🌐 REST API • OAuth • URLSession
 - 💾 CoreData • Keychain
@@ -85,3 +85,5 @@ Travel planning application powered by Yandex Travel API.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ignat_Rogachevich-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shogassxzp)
 
 [![Email](https://img.shields.io/badge/Email-rssxzp@icloud.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:rssxzp@icloud.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-shogassxzp-181717?style=flat-square&logo=github)](https://github.com/shogassxzp)
